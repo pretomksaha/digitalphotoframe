@@ -15,3 +15,5 @@ Here I have worked for automation of digital photo frame for smart home with the
 The cases are Human exist in the room (Motion Sensor): In the room a motion sensor will be installed and configured with the Digital photo frame. Then motion sensor will identify the presence of human in the room. If the sensor find any movement, then it detect and send the message to the digital photo frame through the IoT. As a result, the digital photo frame start to show the sliding of photos
 
 Identify friends and family persons (Face Detection Sensor): I try to implement a new feature for Digital Photo frame by using face detection sensor. This sensor will help to show the pictures of the family and friends who will be present in the room at that time.
+
+Further Information here https://github.com/pretomksaha/digitalphotoframe/tree/master/Documentation
